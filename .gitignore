@@ -1,2 +1,7 @@
 trash/
 **/target/
+
+
+# Added by cargo
+
+/target
